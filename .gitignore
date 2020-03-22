@@ -1,3 +1,7 @@
 /data/ActiveLeases/
 nb/.ipynb_checkpoints/
 ActiveLeases.zip
+TxStateBoundary.zip
+TxCountyBoundaries.zip
+/data/TxCountyBoundaries/
+/data/TxStateBoundary
