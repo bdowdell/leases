@@ -1,0 +1,11 @@
+name: geopy
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - anaconda
+  - python=3.7
+  - pandas=0.25
+  - geopandas
+prefix: /anaconda3/envs/geopy
+
